@@ -1,36 +1,35 @@
-+TareaUno
+NAME: TareaUno
 
-  -Descripción
+DESCRIPCIÓN
 
-TareaUno es una aplicación JavaFX que muestra una lista de nombres de personas junto con sus imágenes correspondientes. La aplicación proporciona una interfaz de usuario simple con un scrollable que contiene las imágenes y los nombres de las personas.
+TareaUno es una aplicación JavaFX que muestra una lista de nombres de personas junto con sus imágenes correspondientes. 
 
-  -Funcionalidades
-  
+La aplicación proporciona una interfaz de usuario simple con un scrollable que contiene las imágenes y los nombres de las personas.
+
+FUNCIONALIDADES
+
 Visualización de nombres de personas junto con sus imágenes.
-
 Interfaz de usuario intuitiva y fácil de usar.
 
-  -Capturas de pantalla
+CAPTURAS DE PANTALLA
+![image](https://github.com/danilomdza/TAREA-1---JAVA-FX/assets/162849123/de35ff5b-a939-4477-a2ec-b2153257eb31)
 
-Requisitos del sistema
-  
+REQUISITOS DEL SISTEMA
+
 Java 8 o superior
 
-Instrucciones de instalación
+INSTRUCCIONES DE LA INSTALACIÓN
 
 Clona este repositorio en tu máquina local.
+
 bash
 Copy code
-git clone https://github.com/tu-usuario/TareaUno.git
+git clone 
+(https://github.com/danilomdza/TAREA-1---JAVA-FX/tree/df2aa1f850960d9b7b83373dd92d1617422790bd)
+
 Abre el proyecto en tu IDE Java preferido.
 Ejecuta la clase Main.java.
-Contribución
-Las contribuciones son bienvenidas. Si deseas contribuir a este proyecto, sigue estos pasos:
 
-Haz un fork del proyecto.
-Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commits (git commit -am 'Agrega nueva funcionalidad').
-Sube tus cambios al fork (git push origin feature/nueva-funcionalidad).
-Abre un Pull Request.
-Licencia
+LICENCIA
+
 Este proyecto está licenciado bajo la Licencia MIT.
